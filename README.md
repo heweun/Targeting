@@ -46,7 +46,13 @@ Prompter Day Seoul 2023에 참가하기 위해 생성형 AI를 활용한 서비�
 
 # 시연 영상
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=_MYwqn-i36c">
+    <img src="https://github.com/heweun/Targeting/blob/main/source/logo.png" alt="동영상 썸네일">
+  </a>
+</p>
 
+<p align="center"><strong>YouTube</strong><br>
 <br><br>
 
 # 개발일정
@@ -62,3 +68,16 @@ Prompter Day Seoul 2023에 참가하기 위해 생성형 AI를 활용한 서비�
   <img src="https://github.com/heweun/Targeting/blob/main/source/role.png">
 </p>
 
+<br><br>
+
+# Appendix
+
+### 좋은 아이디어는 어디로부터 나오는 걸까?
+
+생성형 AI를 활용해 문제를 풀어보겠다고 시작한 프로젝트는, 생각보다 무척이나 많은 서비스가 나와있다는 현실을 깨닫게 해줬다. 모델링을 따로 하지 않아도 API를 활용해 서비스를 제작할 수 있다는것은 기회의 장이자 아이디어 대전과 같았다.
+다른 사람들과 차별화 되면서도 문제를 해결하는 아이디어는 평소에 문제를 찾는 습관으로부터 시작됩을 배웠다.
+또한 프롬프트 엔지니어링이 중요하긴 하지만 프론트와 백엔드가 갖춰져야 서비스를 구현할 수 있다는 깨달음은 아직 생성형 AI에 대한 이해 부족으로 봐야할지 궁금해졌다.
+
+일주일간의 아이디어 회의 동안 감사히도 멘토링을 해주신 멘토님이 계셨다. 많은 질문에 대한 양질의 답변을 이곳에 더해본다.
+
+<img src="https://github.com/heweun/Targeting/blob/main/source/2.png"> <img src="https://github.com/heweun/Targeting/blob/main/source/3.png"> <img src="https://github.com/heweun/Targeting/blob/main/source/4.png">
